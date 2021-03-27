@@ -9185,8 +9185,13 @@ textarea.form-control {
 .ftco-no-pt {
   padding-top: 0; }
 
-.ftco-no-pb {
-  padding-bottom: 0; }
+  .ftco-no-pb {
+    padding-bottom: 5rem;
+  }
+  .ftco-no-pb-2 {
+  padding-bottom: 8rem;
+  margin-top: -85px;
+}
 
 .ftco-footer {
   font-size: 16px;
