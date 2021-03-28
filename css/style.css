@@ -8027,7 +8027,7 @@ h1, h2, h3, h4, h5,
   position: relative;
   z-index: 0;
   width: 100%;
-  background: #79669c; }
+  background: #562b67; }
   .wrap .phone {
     z-index: 1;
     font-weight: 200; }
@@ -8579,7 +8579,7 @@ h1, h2, h3, h4, h5,
   .intro.color-1 {
     background: #ab4227; }
   .intro.color-2 {
-    background: #79669c; }
+    background: #562b67; }
   .intro .icon {
     margin-right: 20px; }
     .intro .icon span {
@@ -8813,7 +8813,7 @@ h1, h2, h3, h4, h5,
       .nav-pills .nav-link {
         width: 100%; } }
     .nav-pills .nav-link:hover {
-      background: #79669c;
+      background: #562b67;
       color: #fff; }
     .nav-pills .nav-link.active {
       color: #fff;
